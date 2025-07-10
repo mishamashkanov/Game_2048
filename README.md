@@ -13,6 +13,6 @@ When we choose dark theme , our game will look like
 
 Our game consists of 3 windows: SCORE, HIGHSCORE and RESET
 SCORE - Show our achievement in this moment 
-HIGHSCORE - SHOW our high achivement of all playings
+HIGHSCORE - SHOW our high achivement of all playings and this result saves to highscore.txt
 RESET - It restartes our game to beginning (use ESC)
 And you can use arrows on your keyboard to play in our game!!!
