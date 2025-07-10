@@ -12,6 +12,8 @@ When we choose dark theme , our game will look like
 <img width="336" height="419" alt="image" src="https://github.com/user-attachments/assets/83ac8878-0ecc-4dbc-ad4f-fdaa8fccb812" />
 
 Our game consists of 3 windows: SCORE, HIGHSCORE and RESET
+
+
 SCORE - Show our achievement in this moment 
 HIGHSCORE - SHOW our high achivement of all playings and this result saves to highscore.txt
 RESET - It restartes our game to beginning (use ESC)
